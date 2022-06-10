@@ -1,0 +1,3 @@
+Hi All ,
+echo "print as I say , what I say , and also what I mention in the comment box carefully "
+           ok
